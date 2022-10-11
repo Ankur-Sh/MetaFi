@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Lacquer&display=swap");
+
+.container {
+    font-family: "Lacquer", cursive;
+    display: flex;
+    flex-direction: row;
+    color: black;
+    background-color: #003b4a94;
+}
+.mint {
+    margin-left: 25%;
+    background: #f8f4e5;
+
+    box-shadow: 30px 30px #ffa580;
+
+    padding: 5rem;
+    font-size: 150%;
+    text-align: center;
+    align-self: center;
+}
+
+.heading {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.input {
+    height: 3rem;
+    width: 35rem;
+    border-radius: 3rem;
+    text-align: center;
+}
+
+.textarea {
+    width: 35rem;
+    border-radius: 20px;
+    padding: 7px;
+}
+.mintBtn {
+    width: 5rem;
+    height: 2rem;
+}
